@@ -1,0 +1,521 @@
+#EXTM3U
+#EXTINF:-1,Canal 1
+http://167.17.64.65:14306/live
+#EXTINF:-1,Canal 2
+http://167.17.64.65:14262/live
+#EXTINF:-1,Canal 3
+http://167.17.64.65:14270/live
+#EXTINF:-1,Canal 4
+http://167.17.64.65:14014/live
+#EXTINF:-1,Canal 5
+http://167.17.64.65:14257/live
+#EXTINF:-1,Canal 6
+http://167.17.64.65:14306/stream
+#EXTINF:-1,Canal 7
+http://167.17.64.65:14262/stream
+#EXTINF:-1,Canal 8
+http://167.17.64.65:14270/stream
+#EXTINF:-1,Canal 9
+http://167.17.64.65:14014/stream
+#EXTINF:-1,Canal 10
+http://167.17.64.65:14257/stream
+#EXTINF:-1,Canal 11
+http://167.17.64.65:14262/iptv
+#EXTINF:-1,Canal 12
+http://167.17.64.65:14014/iptv
+#EXTINF:-1,Canal 13
+http://167.17.64.65:14257/iptv
+#EXTINF:-1,Canal 14
+http://167.17.64.65:14019/iptv
+#EXTINF:-1,Canal 15
+http://167.17.64.65:14020/stream
+#EXTINF:-1,Canal 16
+http://167.17.64.65:14258/live
+#EXTINF:-1,Canal 17
+http://167.17.64.65:14020/iptv
+#EXTINF:-1,Canal 18
+http://167.17.64.65:14258/stream
+#EXTINF:-1,Canal 19
+http://167.17.64.65:14258/iptv
+#EXTINF:-1,Canal 20
+http://167.17.64.65:14266/live
+#EXTINF:-1,Canal 21
+http://167.17.64.65:14185/live
+#EXTINF:-1,Canal 22
+http://167.17.64.65:14266/stream
+#EXTINF:-1,Canal 23
+http://167.17.64.65:14185/stream
+#EXTINF:-1,Canal 24
+http://167.17.64.65:14266/iptv
+#EXTINF:-1,Canal 25
+http://167.17.64.65:14185/iptv
+#EXTINF:-1,Canal 26
+http://167.17.64.65:14380/live
+#EXTINF:-1,Canal 27
+http://167.17.64.65:14261/live
+#EXTINF:-1,Canal 28
+http://167.17.64.65:14261/stream
+#EXTINF:-1,Canal 29
+http://167.17.64.65:14380/stream
+#EXTINF:-1,Canal 30
+http://167.17.64.65:14261/iptv
+#EXTINF:-1,Canal 31
+http://167.17.64.65:14263/live
+#EXTINF:-1,Canal 32
+http://167.17.64.65:14263/stream
+#EXTINF:-1,Canal 33
+http://167.17.64.65:14263/iptv
+#EXTINF:-1,Canal 34
+http://167.17.64.65:14267/live
+#EXTINF:-1,Canal 35
+http://167.17.64.65:14267/stream
+#EXTINF:-1,Canal 36
+http://167.17.64.65:14267/iptv
+#EXTINF:-1,Canal 37
+http://167.17.64.65:14414/live
+#EXTINF:-1,Canal 38
+http://167.17.64.65:14414/stream
+#EXTINF:-1,Canal 39
+http://167.17.64.65:14414/iptv
+#EXTINF:-1,Canal 40
+http://167.17.64.65:16011/live
+#EXTINF:-1,Canal 41
+http://167.17.64.65:16011/stream
+#EXTINF:-1,Canal 42
+http://167.17.64.65:16011/iptv
+#EXTINF:-1,Canal 43
+http://167.17.64.65:16261/live
+#EXTINF:-1,Canal 44
+http://167.17.64.65:16261/stream
+#EXTINF:-1,Canal 45
+http://167.17.64.65:16261/iptv
+#EXTINF:-1,Canal 46
+http://167.17.64.65:16301/stream
+#EXTINF:-1,Canal 47
+http://167.17.64.65:16301/iptv
+#EXTINF:-1,Canal 48
+http://167.17.64.65:16387/live
+#EXTINF:-1,Canal 49
+http://167.17.64.65:16387/stream
+#EXTINF:-1,Canal 50
+http://167.17.64.65:16568/live
+#EXTINF:-1,Canal 51
+http://167.17.64.65:16387/iptv
+#EXTINF:-1,Canal 52
+http://167.17.64.65:16568/stream
+#EXTINF:-1,Canal 53
+http://167.17.64.65:16568/iptv
+#EXTINF:-1,Canal 54
+http://167.17.64.65:16429/live
+#EXTINF:-1,Canal 55
+http://167.17.64.65:16429/stream
+#EXTINF:-1,Canal 56
+http://167.17.64.65:16429/iptv
+#EXTINF:-1,Canal 57
+http://167.17.64.65:16386/live
+#EXTINF:-1,Canal 58
+http://167.17.64.65:16386/stream
+#EXTINF:-1,Canal 59
+http://167.17.64.65:16386/iptv
+#EXTINF:-1,Canal 60
+http://167.17.64.65:16262/live
+#EXTINF:-1,Canal 61
+http://167.17.64.65:17011/live
+#EXTINF:-1,Canal 62
+http://167.17.64.65:16262/stream
+#EXTINF:-1,Canal 63
+http://167.17.64.65:17011/stream
+#EXTINF:-1,Canal 64
+http://167.17.64.65:16262/iptv
+#EXTINF:-1,Canal 65
+http://167.17.64.65:17011/iptv
+#EXTINF:-1,Canal 66
+http://167.17.64.65:17006/stream
+#EXTINF:-1,Canal 67
+http://167.17.64.65:17006/iptv
+#EXTINF:-1,Canal 68
+http://167.17.64.65:17390/live
+#EXTINF:-1,Canal 69
+http://167.17.64.65:17380/live
+#EXTINF:-1,Canal 70
+http://167.17.64.65:17390/stream
+#EXTINF:-1,Canal 71
+http://167.17.64.65:17390/iptv
+#EXTINF:-1,Canal 72
+http://167.17.64.65:17017/live
+#EXTINF:-1,Canal 73
+http://167.17.64.65:17018/live
+#EXTINF:-1,Canal 74
+http://167.17.64.65:17017/stream
+#EXTINF:-1,Canal 75
+http://167.17.64.65:17018/stream
+#EXTINF:-1,Canal 76
+http://167.17.64.65:17017/iptv
+#EXTINF:-1,Canal 77
+http://167.17.64.65:17018/iptv
+#EXTINF:-1,Canal 78
+http://167.17.64.65:16005/live
+#EXTINF:-1,Canal 79
+http://167.17.64.65:17255/live
+#EXTINF:-1,Canal 80
+http://167.17.64.65:16005/stream
+#EXTINF:-1,Canal 81
+http://167.17.64.65:17300/stream
+#EXTINF:-1,Canal 82
+http://167.17.64.65:17255/stream
+#EXTINF:-1,Canal 83
+http://167.17.64.65:16005/iptv
+#EXTINF:-1,Canal 84
+http://167.17.64.65:17300/iptv
+#EXTINF:-1,Canal 85
+http://167.17.64.65:17255/iptv
+#EXTINF:-1,Canal 86
+http://167.17.64.65:17301/live
+#EXTINF:-1,Canal 87
+http://167.17.64.65:17301/stream
+#EXTINF:-1,Canal 88
+http://167.17.64.65:17301/iptv
+#EXTINF:-1,Canal 89
+http://167.17.64.65:17431/live
+#EXTINF:-1,Canal 90
+http://167.17.64.65:17431/stream
+#EXTINF:-1,Canal 91
+http://167.17.64.65:17431/iptv
+#EXTINF:-1,Canal 92
+http://167.17.64.65:17326/live
+#EXTINF:-1,Canal 93
+http://167.17.64.65:17326/stream
+#EXTINF:-1,Canal 94
+http://167.17.64.65:17326/iptv
+#EXTINF:-1,Canal 95
+http://167.17.64.65:17408/live
+#EXTINF:-1,Canal 96
+http://167.17.64.65:17408/stream
+#EXTINF:-1,Canal 97
+http://167.17.64.65:17408/iptv
+#EXTINF:-1,Canal 98
+http://167.17.64.65:17257/live
+#EXTINF:-1,Canal 99
+http://167.17.64.65:17257/stream
+#EXTINF:-1,Canal 100
+http://167.17.64.65:17257/iptv
+#EXTINF:-1,Canal 101
+http://167.17.64.65:17261/live
+#EXTINF:-1,Canal 102
+http://167.17.64.65:17261/stream
+#EXTINF:-1,Canal 103
+http://167.17.64.65:17261/iptv
+#EXTINF:-1,Canal 104
+http://167.17.64.65:17387/live
+#EXTINF:-1,Canal 105
+http://167.17.64.65:17387/stream
+#EXTINF:-1,Canal 106
+http://167.17.64.65:17387/iptv
+#EXTINF:-1,Canal 107
+http://167.17.64.65:17262/live
+#EXTINF:-1,Canal 108
+http://167.17.64.65:17262/stream
+#EXTINF:-1,Canal 109
+http://167.17.64.65:17262/iptv
+#EXTINF:-1,Canal 110
+http://167.17.64.65:17254/live
+#EXTINF:-1,Canal 111
+http://167.17.64.65:17254/stream
+#EXTINF:-1,Canal 112
+http://167.17.64.65:17254/iptv
+#EXTINF:-1,Canal 113
+http://167.17.64.99:14011/live
+#EXTINF:-1,Canal 114
+http://167.17.64.99:14011/stream
+#EXTINF:-1,Canal 115
+http://167.17.64.99:14011/iptv
+#EXTINF:-1,Canal 116
+http://167.17.64.99:14023/live
+#EXTINF:-1,Canal 117
+http://167.17.64.99:14023/stream
+#EXTINF:-1,Canal 118
+http://167.17.64.99:14268/live
+#EXTINF:-1,Canal 119
+http://167.17.64.99:14337/stream
+#EXTINF:-1,Canal 120
+http://167.17.64.99:14268/stream
+#EXTINF:-1,Canal 121
+http://167.17.64.99:14337/iptv
+#EXTINF:-1,Canal 122
+http://167.17.64.99:14281/live
+#EXTINF:-1,Canal 123
+http://167.17.64.99:14273/stream
+#EXTINF:-1,Canal 124
+http://167.17.64.99:14281/stream
+#EXTINF:-1,Canal 125
+http://167.17.64.99:14273/iptv
+#EXTINF:-1,Canal 126
+http://167.17.64.99:14281/iptv
+#EXTINF:-1,Canal 127
+http://167.17.64.99:14383/live
+#EXTINF:-1,Canal 128
+http://167.17.64.99:14335/live
+#EXTINF:-1,Canal 129
+http://167.17.64.99:14283/live
+#EXTINF:-1,Canal 130
+http://167.17.64.99:14383/stream
+#EXTINF:-1,Canal 131
+http://167.17.64.99:14274/live
+#EXTINF:-1,Canal 132
+http://167.17.64.99:14335/stream
+#EXTINF:-1,Canal 133
+http://167.17.64.99:14331/live
+#EXTINF:-1,Canal 134
+http://167.17.64.99:14283/stream
+#EXTINF:-1,Canal 135
+http://167.17.64.99:14383/iptv
+#EXTINF:-1,Canal 136
+http://167.17.64.99:14274/stream
+#EXTINF:-1,Canal 137
+http://167.17.64.99:14331/stream
+#EXTINF:-1,Canal 138
+http://167.17.64.99:14283/iptv
+#EXTINF:-1,Canal 139
+http://167.17.64.99:14274/iptv
+#EXTINF:-1,Canal 140
+http://167.17.64.99:14331/iptv
+#EXTINF:-1,Canal 141
+http://167.17.64.99:14332/live
+#EXTINF:-1,Canal 142
+http://167.17.64.99:14272/stream
+#EXTINF:-1,Canal 143
+http://167.17.64.99:14393/stream
+#EXTINF:-1,Canal 144
+http://167.17.64.99:14272/iptv
+#EXTINF:-1,Canal 145
+http://167.17.64.99:14332/stream
+#EXTINF:-1,Canal 146
+http://167.17.64.99:14393/iptv
+#EXTINF:-1,Canal 147
+http://167.17.64.99:14332/iptv
+#EXTINF:-1,Canal 148
+http://167.17.64.99:14269/live
+#EXTINF:-1,Canal 149
+http://167.17.64.99:14276/live
+#EXTINF:-1,Canal 150
+http://167.17.64.99:14392/live
+#EXTINF:-1,Canal 151
+http://167.17.64.99:14269/stream
+#EXTINF:-1,Canal 152
+http://167.17.64.99:14276/stream
+#EXTINF:-1,Canal 153
+http://167.17.64.99:14392/stream
+#EXTINF:-1,Canal 154
+http://167.17.64.99:14269/iptv
+#EXTINF:-1,Canal 155
+http://167.17.64.99:14394/iptv
+#EXTINF:-1,Canal 156
+http://167.17.64.99:14276/iptv
+#EXTINF:-1,Canal 157
+http://167.17.64.99:14392/iptv
+#EXTINF:-1,Canal 158
+http://167.17.64.99:14395/live
+#EXTINF:-1,Canal 159
+http://167.17.64.99:14504/stream
+#EXTINF:-1,Canal 160
+http://167.17.64.99:14518/live
+#EXTINF:-1,Canal 161
+http://167.17.64.99:14290/live
+#EXTINF:-1,Canal 162
+http://167.17.64.99:14395/stream
+#EXTINF:-1,Canal 163
+http://167.17.64.99:14518/stream
+#EXTINF:-1,Canal 164
+http://167.17.64.99:14504/iptv
+#EXTINF:-1,Canal 165
+http://167.17.64.99:14290/stream
+#EXTINF:-1,Canal 166
+http://167.17.64.99:14518/iptv
+#EXTINF:-1,Canal 167
+http://167.17.64.99:14290/iptv
+#EXTINF:-1,Canal 168
+http://167.17.64.99:14523/live
+#EXTINF:-1,Canal 169
+http://167.17.64.99:14523/stream
+#EXTINF:-1,Canal 170
+http://167.17.64.99:14523/iptv
+#EXTINF:-1,Canal 171
+http://167.17.64.99:14396/live
+#EXTINF:-1,Canal 172
+http://167.17.64.99:14396/stream
+#EXTINF:-1,Canal 173
+http://167.17.64.99:14396/iptv
+#EXTINF:-1,Canal 174
+http://167.17.64.99:14516/live
+#EXTINF:-1,Canal 175
+http://167.17.64.99:14516/stream
+#EXTINF:-1,Canal 176
+http://167.17.64.99:14522/live
+#EXTINF:-1,Canal 177
+http://167.17.64.99:14516/iptv
+#EXTINF:-1,Canal 178
+http://167.17.64.99:14522/stream
+#EXTINF:-1,Canal 179
+http://167.17.64.99:14522/iptv
+#EXTINF:-1,Canal 180
+http://167.17.64.99:14517/live
+#EXTINF:-1,Canal 181
+http://167.17.64.99:14517/stream
+#EXTINF:-1,Canal 182
+http://167.17.64.99:14517/iptv
+#EXTINF:-1,Canal 183
+http://167.17.64.99:14460/live
+#EXTINF:-1,Canal 184
+http://167.17.64.99:14460/stream
+#EXTINF:-1,Canal 185
+http://167.17.64.99:14460/iptv
+#EXTINF:-1,Canal 186
+http://167.17.64.99:14502/live
+#EXTINF:-1,Canal 187
+http://167.17.64.99:14502/stream
+#EXTINF:-1,Canal 188
+http://167.17.64.99:14502/iptv
+#EXTINF:-1,Canal 189
+http://167.17.64.99:14271/live
+#EXTINF:-1,Canal 190
+http://167.17.64.99:14271/stream
+#EXTINF:-1,Canal 191
+http://167.17.64.99:14271/iptv
+#EXTINF:-1,Canal 192
+http://167.17.64.99:16011/live
+#EXTINF:-1,Canal 193
+http://167.17.64.99:16011/stream
+#EXTINF:-1,Canal 194
+http://167.17.64.99:16011/iptv
+#EXTINF:-1,Canal 195
+http://167.17.64.99:16326/live
+#EXTINF:-1,Canal 196
+http://167.17.64.99:16262/live
+#EXTINF:-1,Canal 197
+http://167.17.64.99:16326/stream
+#EXTINF:-1,Canal 198
+http://167.17.64.99:16006/live
+#EXTINF:-1,Canal 199
+http://167.17.64.99:16255/live
+#EXTINF:-1,Canal 200
+http://167.17.64.99:16254/stream
+#EXTINF:-1,Canal 201
+http://167.17.64.99:16326/iptv
+#EXTINF:-1,Canal 202
+http://167.17.64.99:16006/stream
+#EXTINF:-1,Canal 203
+http://167.17.64.99:16255/stream
+#EXTINF:-1,Canal 204
+http://167.17.64.99:16262/stream
+#EXTINF:-1,Canal 205
+http://167.17.64.99:16255/iptv
+#EXTINF:-1,Canal 206
+http://167.17.64.99:16006/iptv
+#EXTINF:-1,Canal 207
+http://167.17.64.99:14289/live
+#EXTINF:-1,Canal 208
+http://167.17.64.99:14289/stream
+#EXTINF:-1,Canal 209
+http://167.17.64.99:14289/iptv
+#EXTINF:-1,Canal 210
+http://167.17.64.99:16301/stream
+#EXTINF:-1,Canal 211
+http://167.17.64.99:16012/live
+#EXTINF:-1,Canal 212
+http://167.17.64.99:16012/stream
+#EXTINF:-1,Canal 213
+http://167.17.64.99:16431/live
+#EXTINF:-1,Canal 214
+http://167.17.64.99:16012/iptv
+#EXTINF:-1,Canal 215
+http://167.17.64.99:16431/stream
+#EXTINF:-1,Canal 216
+http://167.17.64.99:16431/iptv
+#EXTINF:-1,Canal 217
+http://167.17.64.99:16429/live
+#EXTINF:-1,Canal 218
+http://167.17.64.99:16429/stream
+#EXTINF:-1,Canal 219
+http://167.17.64.99:16429/iptv
+#EXTINF:-1,Canal 220
+http://167.17.64.99:16432/live
+#EXTINF:-1,Canal 221
+http://167.17.64.99:16432/stream
+#EXTINF:-1,Canal 222
+http://167.17.64.99:16432/iptv
+#EXTINF:-1,Canal 223
+http://167.17.64.99:17011/live
+#EXTINF:-1,Canal 224
+http://167.17.64.99:17011/stream
+#EXTINF:-1,Canal 225
+http://167.17.64.99:17011/iptv
+#EXTINF:-1,Canal 226
+http://167.17.64.99:16261/live
+#EXTINF:-1,Canal 227
+http://167.17.64.99:17012/live
+#EXTINF:-1,Canal 228
+http://167.17.64.99:17262/live
+#EXTINF:-1,Canal 229
+http://167.17.64.99:17301/stream
+#EXTINF:-1,Canal 230
+http://167.17.64.99:16261/stream
+#EXTINF:-1,Canal 231
+http://167.17.64.99:17012/stream
+#EXTINF:-1,Canal 232
+http://167.17.64.99:17262/stream
+#EXTINF:-1,Canal 233
+http://167.17.64.99:17390/live
+#EXTINF:-1,Canal 234
+http://167.17.64.99:16261/iptv
+#EXTINF:-1,Canal 235
+http://167.17.64.99:17012/iptv
+#EXTINF:-1,Canal 236
+http://167.17.64.99:17262/iptv
+#EXTINF:-1,Canal 237
+http://167.17.64.99:17390/stream
+#EXTINF:-1,Canal 238
+http://167.17.64.99:17005/iptv
+#EXTINF:-1,Canal 239
+http://167.17.64.99:17390/iptv
+#EXTINF:-1,Canal 240
+http://167.17.64.99:17257/live
+#EXTINF:-1,Canal 241
+http://167.17.64.99:17257/stream
+#EXTINF:-1,Canal 242
+http://167.17.64.99:17257/iptv
+#EXTINF:-1,Canal 243
+http://167.17.64.99:17006/live
+#EXTINF:-1,Canal 244
+http://167.17.64.99:17006/stream
+#EXTINF:-1,Canal 245
+http://167.17.64.99:17006/iptv
+#EXTINF:-1,Canal 246
+http://167.17.64.99:17432/live
+#EXTINF:-1,Canal 247
+http://167.17.64.99:17389/live
+#EXTINF:-1,Canal 248
+http://167.17.64.99:17255/live
+#EXTINF:-1,Canal 249
+http://167.17.64.99:17432/stream
+#EXTINF:-1,Canal 250
+http://167.17.64.99:17389/stream
+#EXTINF:-1,Canal 251
+http://167.17.64.99:17255/stream
+#EXTINF:-1,Canal 252
+http://167.17.64.99:17431/live
+#EXTINF:-1,Canal 253
+http://167.17.64.99:17432/iptv
+#EXTINF:-1,Canal 254
+http://167.17.64.99:17389/iptv
+#EXTINF:-1,Canal 255
+http://167.17.64.99:17255/iptv
+#EXTINF:-1,Canal 256
+http://167.17.64.99:17431/stream
+#EXTINF:-1,Canal 257
+http://167.17.64.99:17431/iptv
+#EXTINF:-1,Canal 258
+http://167.17.64.99:16005/live
+#EXTINF:-1,Canal 259
+http://167.17.64.99:16005/stream
+#EXTINF:-1,Canal 260
+http://167.17.64.99:16005/iptv
