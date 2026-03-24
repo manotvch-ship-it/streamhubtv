@@ -1,0 +1,7 @@
+#EXTM3U url-tvg="https://epg.tvnow.com.br/epg.xml.gz"
+#EXTINF:-1 tvg-id="Premiere" tvg-name="Premiere" tvg-logo="https://i.imgur.com/8KQZ4hG.png" group-title="Esportes",Premiere
+http://208.115.232.135:14309/iptv
+#EXTINF:-1 tvg-id="SporTV" tvg-name="SporTV" tvg-logo="https://i.imgur.com/1g6QK9R.png" group-title="Esportes",SporTV
+http://208.115.232.135:14397/stream
+#EXTINF:-1 tvg-id="Combate" tvg-name="Combate" tvg-logo="https://i.imgur.com/2w7KXxP.png" group-title="Lutas",Combate
+http://208.115.232.135:14400/iptv
